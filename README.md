@@ -16,8 +16,7 @@ Build and visualize a Decision Tree model using **Scikit-learn** to classify or 
 - Visualization using `plot_tree` and `graphviz`
 - Model accuracy analysis
 
-### 📂 File:
-`decision_tree_model.ipynb`
+
 
 ---
 
@@ -32,8 +31,7 @@ Perform sentiment analysis on customer reviews using **TF-IDF vectorization** an
 - Logistic Regression classification
 - Accuracy, precision, recall, F1-score evaluation
 
-### 📂 File:
-`sentiment_analysis_nlp.ipynb`
+
 
 ---
 
@@ -48,8 +46,6 @@ Build a **Convolutional Neural Network (CNN)** using **TensorFlow** or **PyTorch
 - Training and validation
 - Accuracy and loss curve visualization
 
-### 📂 File:
-`image_classification_cnn.ipynb`
 
 ---
 
