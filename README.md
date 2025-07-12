@@ -69,9 +69,4 @@ Build a Recommendation System using **Collaborative Filtering** or **Matrix Fact
 
 ---
 
-## ⚙️ Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ml-dl-projects.git
-   cd ml-dl-projects
