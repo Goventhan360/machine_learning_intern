@@ -60,8 +60,7 @@ Build a Recommendation System using **Collaborative Filtering** or **Matrix Fact
 - Recommendation generation
 - Evaluation metrics (RMSE, MAE)
 
-### 📂 File:
-`recommendation_system.ipynb`
+
 
 ---
 
